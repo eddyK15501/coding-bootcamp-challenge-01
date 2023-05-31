@@ -26,7 +26,7 @@ THEN I find a concise, descriptive title
 
 ## Description
 
-In this weeks challenge, we were asked to refactor code to make the website more accessible. Located in the Assets folder is an image of what the final product should look like.
+In this weeks challenge, we were asked to refactor code to make the website more accessible. Located in the Assets folder is an image of what the final product should look like. Located in the Develop folder is the index.html, as well as the style.css file under assets.
 
 The first changes made were in the title where the head tag is located, as well as in the HTML elements. Renaming the title of the website, along with switching the div containers into header, main, section, aside, and footer tags to give more semantics. 
 
